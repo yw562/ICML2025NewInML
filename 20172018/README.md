@@ -1,0 +1,1 @@
+This code was developed as part of my work for a paper submitted to an ICML workshop. It uses only publicly available datasets, and all the code was entirely written by myself. The project is open-sourced. I am affiliated with the University of Cambridge and Flab. The final copyright of the code belongs to me personally.

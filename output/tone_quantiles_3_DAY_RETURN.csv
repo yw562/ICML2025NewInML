@@ -1,0 +1,85 @@
+label,Low,Med,High
+Brand Boycott,-0.021050,0.011753,-0.004943
+CEO Resignation (implied pressure on CEO),,,-0.005664
+Customer Lawsuit,,0.032659,-0.017869
+Customer Lawsuit (potential - expressed frustration could lead to legal action),,,0.013570
+Cybersecurity Risk,,-0.017412,0.003456
+Data Breach Incident,,-0.017412,0.003456
+ESG Scandal,,0.058080,-0.021467
+Election Result Impact,,-0.029713,-0.004359
+Employment Data,,,-0.017336
+Environmental Impact,,0.003122,
+Fiscal Stimulus,,0.009457,0.002488
+Geopolitical Tension,,-0.001129,-0.029655
+Industry Regulation Change,,0.014738,
+Influencer Endorsement,0.007618,0.034589,
+Leadership Change,,-0.009759,-0.005664
+Litigation Risk,,0.002978,-0.005664
+Lobbying Activity (implied - falls under Regulatory Relaxation as the aim is to *ease* supervision),,-0.004809,
+Meme Stock Activity,0.005299,-0.019712,
+Negative Press,,0.009391,-0.007772
+New Product Launch,0.011168,-0.018973,
+None of the provided tags are relevant to this text. It is an advertisement for an item for sale on eBay.,-0.000286,,
+None of the provided tags are relevant to this text. It is an advertisement for vintage porcelain plates on eBay.,,0.005877,
+None of the provided tags are relevant to this text. It is simply an advertisement for a product (matcha green tea) on eBay.,0.000835,,
+None of the provided tags are relevant to this text. It's a motivational tweet from Danone and doesn't contain any financial or market-related information.,,,0.008876
+None of the provided tags are relevant to this text. This is a customer review of a service experience and does not contain any financial or market-related information.,,-0.106771,
+None of the provided tags are relevant to this text. This is a listing for an item on eBay and does not contain any financial or market-related information.,-0.000286,,
+None of the provided tags are relevant to this text. This is a product listing/advertisement for a necklace on eBay.,0.021363,,
+None of the provided tags are relevant to this text. This is an advertisement for a collectible item on eBay.,0.038073,,
+None of the provided tags are relevant to this text. This is an advertisement for art being sold on eBay.,,0.005877,
+None of the provided tags are relevant to this text. This is an advertisement for jewelry on eBay.,,0.017493,
+None of the provided tags are relevant to this text. This is simply an advertisement for a used laptop on eBay.,0.004720,,
+None.,,,0.053556
+Policy Change (implied - relating to environmental regulations),,0.003122,
+Political Commentary (though not a direct market event,,,0.030286
+Political Risk,,,-0.004359
+Political Sentiment,,0.016298,
+Positive Media Coverage,,0.000285,0.022856
+Positive Media Coverage (potential,,0.053556,
+Positive Media Coverage (potentially,,-0.055032,
+"Product Recall (implied - ""bricked"" suggests a faulty update leading to unusable devices)",,0.007918,
+Regulatory Crackdown,,-0.000844,0.000631
+Regulatory Relaxation,,-0.004809,
+Retail Investor Buzz,-0.004029,-0.007207,0.009225
+Retail Investor Buzz (potentially,,,-0.005158
+Social Media Backlash,-0.021050,0.011666,-0.001177
+Social Media Backlash (potential,0.000835,0.053556,
+Social Media Backlash (potentially,,,0.003409
+Social Media Backlash (potentially - depending on context of replies/engagement),-0.006128,,
+"Social Media Backlash (potentially - depending on tone interpreted from ""hope it's not a trick!"")",,-0.035435,
+Speculation/Rumor,-0.003809,-0.005577,-0.010931
+Speculation/Rumor (due to potential market reaction to the news),,-0.007223,
+Speculation/Rumor (due to the hashtag-driven nature and potential for collecting/speculation on vintage items),,0.004720,
+Speculation/Rumor (due to the promotional nature and use of hashtags - could indicate trending item/activity),,-0.010660,
+Speculation/Rumor (given the promotional nature and link to an eBay listing with hashtags - suggests potential for trending/buzz),-0.022317,,
+Speculation/Rumor (regarding impact of political funding).,,,0.030286
+Speculation/Rumor (regarding potential demand/resale value),0.000835,,
+Stock Price Drop,,,-0.011012
+Supply Chain Disruption,,0.010937,-0.001260
+Supply Chain Disruption (potential - delays *could* indicate this),,,-0.020603
+This text is clearly about a vintage collectible item being sold on eBay. It has absolutely no relevance to financial markets. Therefore,0.021363,,
+This text is clearly an advertisement and does not contain any financial information. Therefore,0.004720,,
+This text is clearly an advertisement for a product (LED lights for trucks/trailers) on eBay. It doesn't relate to any financial market events or concepts. Therefore,0.003162,,
+This text is clearly an advertisement for a product on eBay. It does not contain any financial information or relate to market events. Therefore,0.002507,,
+This text is clearly an advertisement for a product on eBay. It doesn't relate to any financial market events or concepts. Therefore,,-0.000286,
+This text is clearly an advertisement for jewelry beads on eBay. It does not contain any financial information or relate to market events. Therefore,0.005299,,
+This text is clearly unrelated to financial markets. It's an advertisement for gemstone beads on eBay. Therefore,-0.031637,,
+This text is completely irrelevant to financial markets. It's an advertisement for a used military uniform on eBay.,,-0.001192,
+This text is essentially an advertisement for a product on eBay. It has no relevance to financial markets. Therefore,0.017493,,
+This text is overwhelmingly focused on retail/e-commerce listings and contains no financial information. Therefore,,0.017493,
+This text is simply an advertisement for a product on eBay. It does not contain any financial information or relate to market events. Therefore,0.005299,,
+Trade Policy Change,,0.002719,-0.008760
+Viral Marketing Campaign,0.011942,-0.003235,0.006449
+depending on context - could be promoting or reacting to something),0.000835,,
+depending on context - the hashtag usage suggests trending topic/discussion),,,0.003409
+depending on how the hashtag campaign unfolds - could generate negative sentiment if perceived as exploitative),,0.053556,
+"depending on interpretation of ""reflects on his #First100days"")",,-0.055032,
+"depending on interpretation of showing ""wins"")",,-0.055032,
+due to social media aspect),,,-0.005158
+if the campaign is successful and generates positive attention for T-Mobile).,,0.053556,
+it *could* lead to Brand Boycott/Customer Lawsuit - but is weak),,,0.030286
+it doesn't fit any of the provided market-relevant explanation tags.,,0.017493,
+it doesn't fit any of the provided tags.,0.004066,,
+no relevant tags apply.,-0.031637,,
+no tags apply.,0.014006,-0.000286,

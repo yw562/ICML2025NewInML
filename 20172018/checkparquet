@@ -1,0 +1,10 @@
+import pandas as pd
+signals = pd.read_parquet("signals.parquet")
+prices = pd.read_parquet("prices.parquet")
+
+print("signals columns sample:", signals.columns[:10].tolist())
+print("prices columns sample:", prices.columns[:10].tolist())
+
+print("signals count:", len(signals.columns))
+print("prices count:", len(prices.columns))
+print("shared count:", len(set(signals.columns) & set(prices.columns)))
